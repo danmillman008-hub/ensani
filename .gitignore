@@ -1,0 +1,7 @@
+# داده‌های سنگین میانی (قابل بازتولید با اسکریپت‌های work/)
+work/*.jsonl
+work/*.json
+work/txt/
+work/balz_farhangian.txt
+work/__pycache__/
+__pycache__/
